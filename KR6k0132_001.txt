@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:44:58.337749
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:25
 #+TITLE: 四分比丘戒本疏
 #+PROPERTY: CBETA_ID T40n1807
 #+PROPERTY: ID KR6k0132
